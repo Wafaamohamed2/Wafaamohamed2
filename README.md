@@ -12,12 +12,6 @@ I’m a Computer Science undergraduate with a strong passion for backend develop
 ![](https://nirzak-streak-stats.vercel.app/?user=Wafaamohamed2&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wafaamohamed2&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Wafaamohamed2&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Wafaamohamed2&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Wafaamohamed2&icon=0&color=1)](https://visitcount.itsvg.in)
 
